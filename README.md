@@ -3,9 +3,8 @@ I'm a software developer, from Nigeria. I'm passionate about learning, exploring
 
 <!--
 **Samson8/Samson8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on a react project
 - 🌱 I’m currently learning Javascript frameworks
 - 👯 I’m looking to get remote Job opportunities to join a team of engineers in building great software solutions.
