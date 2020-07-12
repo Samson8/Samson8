@@ -3,7 +3,7 @@ I'm a software developer, from Nigeria. I'm passionate about learning, exploring
 
 <!--
 **Samson8/Samson8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a react project
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
       twitter: samsonsamuel22
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Someday I want to look back at this and be proud I've improved a lot.
--->
+
