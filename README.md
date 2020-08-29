@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a react project
 - 🌱 I’m currently learning Javascript frameworks
 - 👯 I’m looking to get remote Job opportunities to join a team of engineers in building great software solutions.
-- 💬 Ask me about Native android applications, Javascript, Java, and Hybrid applications(Ionic).
+- 💬 Ask me about Native android applications, cross platform applications(flutter), Java, and Hybrid applications(Ionic).
 - 📫 How to reach me: 
       email: samsondamilola22@gmail.com
       twitter: samsonsamuel22
