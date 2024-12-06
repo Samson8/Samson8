@@ -2,12 +2,18 @@
 I'm a software developer with a passion for learning, exploring new technologies, and building impactful solutions.
 
 🚀 What I'm Working On
+
 🌟 Developing React Native projects that prioritize seamless user experiences.
+
 💡 Continuously enhancing my skills in JavaScript frameworks and modern development practices.
+
 💻 What I Bring to the Table
+
 Expertise in Native Android development, cross-platform applications (Flutter/React Native), and hybrid applications (Ionic).
 Strong foundation in frontend development and a focus on delivering scalable, maintainable software solutions.
+
 🌍 What I'm Looking For
+
 I’m on the lookout for remote job opportunities where I can collaborate with a team of engineers to build innovative and high-quality software.
 
 📫 Let’s Connect
