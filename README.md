@@ -17,7 +17,11 @@ Strong foundation in frontend development and a focus on delivering scalable, ma
 I’m on the lookout for remote job opportunities where I can collaborate with a team of engineers to build innovative and high-quality software.
 
 📫 Let’s Connect
+
 Email: samsondamilola22@gmail.com
+
 Twitter: @samsonsamuel22
+
 🎯 Fun Fact
+
 I’m driven by the goal of continuous improvement. I look forward to the day when I can look back at this journey and see how far I’ve come!
