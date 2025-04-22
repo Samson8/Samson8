@@ -17,7 +17,7 @@ I'm a versatile **Software Developer** with over 6 years of experience building 
 
 - **Mobile Development**:  
   - Native Android (Java), Flutter, React Native  
-  - State management (Provider, Riverpod, Redux)  
+  - State management (Redux, Context API, Provider, Riverpod, etc.)  
   - Firebase integration, in-app purchases, real-time features
 
 - **Frontend Development**:  
