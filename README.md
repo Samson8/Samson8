@@ -1,27 +1,52 @@
-### 👋 Hi there, I'm Samson!
-I'm a software developer with a passion for learning, exploring new technologies, and building impactful solutions.
+### 👋 Hi, I'm Samson!
 
-🚀 What I'm Working On
+I'm a versatile **Software Developer** with over 6 years of experience building web and mobile applications that solve real-world problems. I specialize in both frontend and backend development, with a strong focus on creating clean, maintainable, and scalable solutions across platforms.
 
-🌟 Developing React Native projects that prioritize seamless user experiences.
+---
 
-💡 Continuously enhancing my skills in JavaScript frameworks and modern development practices.
+### 🚀 What I’m Working On
 
-💻 What I Bring to the Table
+- Building **cross-platform mobile apps** using **Flutter** and **React Native**.  
+- Developing modern, responsive **web applications** with **React**, **Next.js**, and **Tailwind CSS**.  
+- Working on backend systems using **Laravel**, **Node.js**, and **REST/GraphQL APIs**.  
+- Continuously improving code quality through **testing**, **architecture planning**, and best practices.
 
-Expertise in Native Android development, cross-platform applications (Flutter/React Native), and hybrid applications (Ionic).
-Strong foundation in frontend development and a focus on delivering scalable, maintainable software solutions.
+---
 
-🌍 What I'm Looking For
+### 💻 What I Bring to the Table
 
-I’m on the lookout for remote job opportunities where I can collaborate with a team of engineers to build innovative and high-quality software.
+- **Mobile Development**:  
+  - Native Android (Java), Flutter, React Native  
+  - State management (Provider, Riverpod, Redux)  
+  - Firebase integration, in-app purchases, real-time features
 
-📫 Let’s Connect
+- **Frontend Development**:  
+  - React, Next.js, TypeScript, Tailwind CSS, HTML/CSS  
+  - Component-driven architecture, responsive UI/UX, accessibility
 
-Email: samsondamilola22@gmail.com
+- **Backend Development**:  
+  - Laravel, PHP, MySQL, Node.js  
+  - RESTful and GraphQL APIs, authentication systems, database design
 
-Twitter: @samsonsamuel22
+- **Dev Tools & Practices**:  
+  - Git, CI/CD, Agile/SCRUM, Docker  
+  - Unit testing, E2E testing, BrowserStack
 
-🎯 Fun Fact
+---
 
-I’m driven by the goal of continuous improvement. I look forward to the day when I can look back at this journey and see how far I’ve come!
+### 🌍 Open to Opportunities
+
+I’m currently open to **remote** opportunities where I can collaborate with dynamic teams to build impactful software—whether it’s mobile, web, or full-stack.
+
+---
+
+### 📫 Let’s Connect
+
+- **Email**: samsondamilola22@gmail.com  
+- **LinkedIn**: [Samson Alejolowo](https://linkedin.com/in/samson-alejolowo-4b08a092)  
+
+---
+
+### 🎯 Fun Fact
+
+I’m passionate about continuous learning and love exploring new tools, frameworks, and ideas that push me to grow as a developer. Whether it’s architecting complex systems or polishing a user interface—I’m all in.
